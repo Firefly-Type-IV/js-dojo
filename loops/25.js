@@ -9,10 +9,10 @@
  * rowSums([[1, 2, 3], [4, 5], [6]]);
  */
 export function rowSums(arr) {
-  // TODO: Initialize a new array to hold the row sums.
-  // TODO: Use a for loop to iterate over the outer array.
-  // TODO: For each inner array, initialize a variable to hold the sum of the row.
-  // TODO: Use another for loop to iterate over each element in the inner array and add it to the row sum.
-  // TODO: Add the row sum to the new array.
-  // TODO: Return the new array.
+  // TODO: ???
+  // TODO: ???
+  // TODO: ???
+  // TODO: ???
+  // TODO: ???
+  // TODO: ???
 }

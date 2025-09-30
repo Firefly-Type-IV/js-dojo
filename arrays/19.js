@@ -6,6 +6,6 @@
  * filterEvenAges([21, 22, 23, 24, 25]); // returns [22, 24]
  */
 export function filterEvenAges(ages) {
-  // TODO: Use the filter() method to get even numbers from the array
-  // TODO: Return the new array of even ages
+  // TODO: ???
+  // TODO: ???
 }

@@ -6,5 +6,5 @@
  * Example: isEven(4) should return true.
  */
 export function isEven(num) {
-  // TODO: Return true if num is divisible by 2
+  // TODO: ???
 }

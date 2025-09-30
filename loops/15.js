@@ -9,8 +9,8 @@
  * reverseArray([1, 2, 3, 4, 5]);
  */
 export function reverseArray(arr) {
-  // TODO: Initialize a new array to hold the reversed elements.
-  // TODO: Use a for loop to iterate over the elements of the array from the end to the beginning.
-  // TODO: Add each element to the new array.
-  // TODO: Return the new array.
+  // TODO: ???
+  // TODO: ???
+  // TODO: ???
+  // TODO: ???
 }

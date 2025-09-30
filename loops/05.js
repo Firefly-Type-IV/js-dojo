@@ -9,8 +9,8 @@
  * sumSquares(5);
  */
 export function sumSquares(input) {
-  // TODO: Initialize a variable to hold the sum.
-  // TODO: Use a for loop to iterate from 1 to one less than the input number.
-  // TODO: Add the square of each number to the sum variable.
-  // TODO: Return the sum.
+  // TODO: ???
+  // TODO: ???
+  // TODO: ???
+  // TODO: ???
 }

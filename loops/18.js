@@ -10,9 +10,9 @@
  * filterExpensiveProducts([50, 150, 100, 200], 100);
  */
 export function filterExpensiveProducts(prices, maxPrice) {
-  // TODO: Initialize a new array to hold the filtered prices.
-  // TODO: Use a for loop to iterate over the prices array.
-  // TODO: For each price, check if it is less than or equal to the maxPrice.
-  // TODO: If it is, add it to the new array.
-  // TODO: Return the new array.
+  // TODO: ???
+  // TODO: ???
+  // TODO: ???
+  // TODO: ???
+  // TODO: ???
 }

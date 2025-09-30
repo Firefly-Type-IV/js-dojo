@@ -10,8 +10,8 @@
  * calculateInventoryValue([10, 5, 2], [20, 50, 100]);
  */
 export function calculateInventoryValue(quantities, prices) {
-  // TODO: Initialize a variable to hold the total inventory value.
-  // TODO: Use a for loop to iterate over the quantities array.
-  // TODO: Multiply each quantity by the corresponding price and add it to the total value.
-  // TODO: Return the total inventory value.
+  // TODO: ???
+  // TODO: ???
+  // TODO: ???
+  // TODO: ???
 }

@@ -7,5 +7,5 @@
  * Example: remainingSavings(100, 40) should return 60.
  */
 export function remainingSavings(savings, cost) {
-  // TODO: return the remaining savings after subtracting cost from savings
+  // TODO: ???
 }

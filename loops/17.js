@@ -10,8 +10,8 @@
  * findIndex([1, 2, 3, 4, 5], 3);
  */
 export function findIndex(arr, element) {
-  // TODO: Use a for loop to iterate over the elements of the array.
-  // TODO: For each element, check if it is equal to the specified element.
-  // TODO: If it is, return the current index.
-  // TODO: If the loop completes without finding the element, return -1.
+  // TODO: ???
+  // TODO: ???
+  // TODO: ???
+  // TODO: ???
 }

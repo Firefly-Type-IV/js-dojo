@@ -7,5 +7,5 @@
  * findYoungestAge([29, 31]); // returns 29
  */
 export function findYoungestAge(ages) {
-  // TODO: Return the smallest age
+  // TODO: ???
 }

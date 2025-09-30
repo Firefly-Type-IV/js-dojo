@@ -7,7 +7,7 @@
  * Example: totalPay(45, 20) should return 950.
  */
 export function totalPay(hoursWorked, hourlyRate) {
-  // TODO: Calculate regular pay for up to 40 hours
-  // TODO: Calculate overtime pay for hours above 40 at 1.5 times the regular rate
-  // TODO: Return the total pay
+  // TODO: ???
+  // TODO: ???
+  // TODO: ???
 }

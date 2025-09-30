@@ -9,9 +9,9 @@
  * calculateAverage([1, 2, 3, 4, 5]);
  */
 export function calculateAverage(arr) {
-  // TODO: Initialize a variable to hold the sum.
-  // TODO: Use a for loop to iterate over the elements of the array.
-  // TODO: Add each element to the sum variable.
-  // TODO: Divide the sum by the number of elements in the array to get the average.
-  // TODO: Return the average.
+  // TODO: ???
+  // TODO: ???
+  // TODO: ???
+  // TODO: ???
+  // TODO: ???
 }

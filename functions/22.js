@@ -6,7 +6,7 @@
  * Example: determineGrade(85) should return 'B'.
  */
 export function determineGrade(score) {
-  // TODO: Determine the letter grade based on the score
+  // TODO: ???
   // 90-100: 'A'
   // 80-89: 'B'
   // 70-79: 'C'

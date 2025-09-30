@@ -8,5 +8,5 @@
  * Example: compoundInterest(1000, 0.05, 10) should return 1628.89 (approximately).
  */
 export function compoundInterest(principal, rate, time) {
-  // TODO: return the accumulated amount using the formula A = P(1 + r)^t
+  // TODO: ???
 }

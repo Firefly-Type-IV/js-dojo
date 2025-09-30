@@ -6,6 +6,6 @@
  * increasePrices([100, 200, 300]); // returns [110, 220, 330]
  */
 export function increasePrices(prices) {
-  // TODO: Use the map() method to increase each price by 10%
-  // TODO: Return the new array of increased prices
+  // TODO: ???
+  // TODO: ???
 }

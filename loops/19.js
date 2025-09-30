@@ -9,9 +9,9 @@
  * countPositiveReviews([5, 3, 4, 2, 5]);
  */
 export function countPositiveReviews(reviews) {
-  // TODO: Initialize a variable to hold the count of positive reviews.
-  // TODO: Use a for loop to iterate over the reviews array.
-  // TODO: For each review, check if it is a positive review (4 or 5 stars).
-  // TODO: If it is, increment the count.
-  // TODO: Return the count of positive reviews.
+  // TODO: ???
+  // TODO: ???
+  // TODO: ???
+  // TODO: ???
+  // TODO: ???
 }

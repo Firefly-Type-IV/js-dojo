@@ -6,6 +6,6 @@
  * doubleLikes([100, 200, 300]); // returns [200, 400, 600]
  */
 export function doubleLikes(likes) {
-  // TODO: Use the map() method to double each like count
-  // TODO: Return the new array with doubled likes
+  // TODO: ???
+  // TODO: ???
 }

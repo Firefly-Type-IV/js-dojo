@@ -6,5 +6,5 @@
  * Example: dayType('Saturday') should return 'Weekend'.
  */
 export function dayType(day) {
-  // TODO: Return 'Weekday' for Monday to Friday, and 'Weekend' for Saturday and Sunday
+  // TODO: ???
 }

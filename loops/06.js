@@ -9,9 +9,9 @@
  * countDivisibleBy3(5);
  */
 export function countDivisibleBy3(input) {
-  // TODO: Initialize a variable to hold the count.
-  // TODO: Use a for loop to iterate from 1 to one less than the input number.
-  // TODO: Check if the current number is divisible by 3.
-  // TODO: If it is, increment the count variable.
-  // TODO: Return the count.
+  // TODO: ???
+  // TODO: ???
+  // TODO: ???
+  // TODO: ???
+  // TODO: ???
 }
