@@ -11,4 +11,9 @@ export function updateStepCounts(stepCounts, newStepCount) {
   // TODO: Use the filter() method to keep step counts that are 5000 or above
   // TODO: Use the map() method to increase each remaining step count by 1000
   // TODO: Return the new array of modified step counts
+  stepCounts.push(newStepCount);
+  const bonusCount = stepCounts
+    .filter(stepCount => stepCount >= 5000)
+    .map(stepCount => stepCount + 1000 );
+  return bonusCount
 }
