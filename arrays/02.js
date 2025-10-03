@@ -9,4 +9,5 @@ export function endSum(prices) {
   // TODO: Get the last element from the array
   // TODO: Get the second-last element from the array
   // TODO: Return the sum of the last and second-last elements
+  return prices[prices.length - 1] + prices[prices.length - 2];
 }
