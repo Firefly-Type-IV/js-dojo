@@ -9,4 +9,9 @@
 export function addTemperature(temperatures, newTemp) {
   // TODO: Use the push() method to add the new temperature to the end of the array
   // TODO: Return the updated array
+  // temperatures is the name of the array
+  // push() method for add to end of the array
+  // newTemp is the variable holding the new value
+  temperatures.push(newTemp);
+  return temperatures
 }
