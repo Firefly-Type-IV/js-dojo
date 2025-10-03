@@ -9,4 +9,6 @@ export function firstAndLastName(names) {
   // TODO: Get the first element from the array
   // TODO: Get the last element from the array
   // TODO: Return an array containing the first and last elements
+  // nameOfArr.map(function)
+  return [names[0], names[names.length - 1]]
 }
