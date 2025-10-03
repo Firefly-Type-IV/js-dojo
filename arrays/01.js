@@ -9,4 +9,6 @@ export function startSum(prices) {
   // TODO: Get the first element from the array
   // TODO: Get the second element from the array
   // TODO: Return the sum of the first and second elements
+  // arr.length property returns the number of elements in the array
+  return prices[0] + prices[1];
 }
