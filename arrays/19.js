@@ -8,4 +8,6 @@
 export function filterEvenAges(ages) {
   // TODO: Use the filter() method to get even numbers from the array
   // TODO: Return the new array of even ages
+  const evenAges = ages.filter(age => age % 2 === 0);
+  return evenAges;
 }
