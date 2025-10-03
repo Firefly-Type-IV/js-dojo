@@ -11,4 +11,8 @@ export function updateScores(scores, newScore) {
   // TODO: Use the filter() method to keep scores that are 50 or above
   // TODO: Use the map() method to increase each remaining score by 20% using the formula: score * 1.2
   // TODO: Return the new array of modified scores
+  scores.push(newScore)
+  return scores
+    .filter(score => score >= 50)
+    .map(score => score * 1.2)
 }
