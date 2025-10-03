@@ -8,4 +8,5 @@
 export function increasePrices(prices) {
   // TODO: Use the map() method to increase each price by 10%
   // TODO: Return the new array of increased prices
+  return prices.map(price => price * 1.1)
 }
