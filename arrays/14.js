@@ -9,4 +9,5 @@
 export function appendYear(titles, year) {
   // TODO: Use the map() method to append the year to each title
   // TODO: Return the new array with the year appended to each title
+  return titles.map(title => `${title} (${year})`)
 }
