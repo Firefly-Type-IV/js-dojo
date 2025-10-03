@@ -10,4 +10,5 @@ export function applyDiscount(prices, discount) {
   // TODO: Use the map() method to apply the discount to each price
   // Formula: price - (price * discount / 100)
   // TODO: Return the new array of discounted prices
+  return prices.map(price => price - price * discount / 100);
 }
