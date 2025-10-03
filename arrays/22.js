@@ -11,4 +11,8 @@ export function updateFollowers(followerIDs, newFollowerID) {
   // TODO: Use the filter() method to keep follower IDs that are odd
   // TODO: Use the map() method to prefix each remaining ID with 'ID-'
   // TODO: Return the new array of modified follower IDs
+  followerIDs.push(newFollowerID);
+  return followerIDs
+    .filter(id => id % 2 !== 0)
+    .map(id => `ID-${id}`);
 }
