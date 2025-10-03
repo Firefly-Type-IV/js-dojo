@@ -8,4 +8,10 @@
 export function doubleLikes(likes) {
   // TODO: Use the map() method to double each like count
   // TODO: Return the new array with doubled likes
+  function double(like){
+    return 2 * like;
+  }
+  // return likes.map(double);
+  // Arrow functions are a concise way to write js functions, as the function keyword is omitted and return is implied.
+  return likes.map(like => 2 * like);
 }
