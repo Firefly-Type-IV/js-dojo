@@ -9,4 +9,9 @@ export function convertToFahrenheit(tempsCelsius) {
   // TODO: Use the map() method to convert each temperature to Fahrenheit
   // Formula: (Celsius * 9/5) + 32
   // TODO: Return the new array with temperatures in Fahrenheit
+  function inFahrenheit(Celsius){
+    const Fahrenheit = (Celsius * 9/5) + 32;
+    return Fahrenheit
+  }
+  return tempsCelsius.map(inFahrenheit)
 }
