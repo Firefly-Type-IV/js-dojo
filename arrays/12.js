@@ -8,4 +8,6 @@
 export function addHashtags(topics) {
   // TODO: Use the map() method to add a hashtag to each topic
   // TODO: Return the new array of topics with hashtags
+  // Pure & imPure functions, pure functions do not affect the original array/ object i.e. filter(), map() but imPure functions like push() as you can never determine its output solely reading it
+  return topics.map(topic => `#${topic}`)
 }
