@@ -11,4 +11,9 @@ export function updatePrices(prices, newPrice) {
   // TODO: Use the filter() method to keep prices 100 or below
   // TODO: Use the map() method to double each remaining price
   // TODO: Return the new array of modified prices
+  prices.push(newPrice);
+  let filteredMap = prices
+    .filter(price => price <= 100)
+    .map(price => price * 2)
+  return filteredMap;
 }
