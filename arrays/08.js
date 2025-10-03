@@ -9,4 +9,7 @@
 export function addNewPrice(prices, newPrice) {
   // TODO: Use the unshift() method to add the new price to the beginning of the array
   // TODO: Return the updated array
+  // NOTE: push() & unshift() modify to an array, pop() and shift() remove and return that item from the array.
+  prices.unshift(newPrice);
+  return prices;
 }
