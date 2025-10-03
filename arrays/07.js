@@ -8,4 +8,6 @@
 export function extractWeekdays(temps) {
   // TODO: Use the slice() method to get the first 5 elements of the array
   // TODO: Return the new array containing only the weekdays
+  // NOTE: temps.slice(a, b) return array of items at index 0 to, but not including, 5.
+  return temps.slice(0, 5);
 }
