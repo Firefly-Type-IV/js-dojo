@@ -8,4 +8,5 @@
  */
 export function perimeter(length, width) {
   // TODO: Calculate the perimeter using the formula 2 * (length + width)
+  return (length + width) * 2;
 }
