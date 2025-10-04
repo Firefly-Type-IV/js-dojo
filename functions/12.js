@@ -9,4 +9,5 @@
  */
 export function isBetween(num, lower, upper) {
   // TODO: Return true if num is greater than lower and less than upper
+  return upper > num && num > lower;
 }
