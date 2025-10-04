@@ -8,4 +8,6 @@
  */
 export function remainingSavings(savings, cost) {
   // TODO: return the remaining savings after subtracting cost from savings
+  let remainingSavings = savings - cost;
+  return remainingSavings;
 }
