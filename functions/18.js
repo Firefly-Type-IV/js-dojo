@@ -9,4 +9,5 @@
  */
 export function canVote(age, isCitizen, isRegistered) {
   // TODO: Return true if age is 18 or older, isCitizen is true, and isRegistered is true
+  return age >= 18 && isCitizen && isRegistered;
 }
