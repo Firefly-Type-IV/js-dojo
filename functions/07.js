@@ -8,4 +8,5 @@
  */
 export function didPass(score, passMark) {
   // TODO: return true if score is greater than or equal to passMark
+  return score >= passMark;
 }
