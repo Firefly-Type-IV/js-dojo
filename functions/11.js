@@ -9,4 +9,7 @@
 export function adjustedSalary(salary, taxRate) {
   // TODO: apply the tax deduction
   // TODO: return the adjusted salary
+  return salary * (100 - taxRate) / 100;
+  let deduction = salary * (taxRate / 100);
+  return salary - deduction;
 }
