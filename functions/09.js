@@ -8,4 +8,5 @@
  */
 export function isSpeeding(speed, speedLimit) {
   // TODO: return true if speed is greater than speedLimit
+  return speed > speedLimit;
 }
