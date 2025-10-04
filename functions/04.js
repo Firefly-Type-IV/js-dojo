@@ -8,4 +8,5 @@
  */
 export function ingredientAmount(baseAmount, servings) {
   // TODO: return the adjusted amount by multiplying baseAmount and servings
+  return baseAmount * servings;
 }
