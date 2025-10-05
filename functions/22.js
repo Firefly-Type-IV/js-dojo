@@ -23,4 +23,8 @@ export function determineGrade(score) {
   } else {
     return 'F';
   }
+  return (score >= 90) ? 'A' :
+         (score >= 90) ? 'B' :
+         (score >= 90) ? 'C' :
+         (score >= 90) ? 'D' : 'F';
 }
