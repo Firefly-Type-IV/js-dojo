@@ -11,4 +11,14 @@ export function determineSeason(month) {
   // Spring: March (3), April (4), May (5)
   // Summer: June (6), July (7), August (8)
   // Autumn: September (9), October (10), November (11)
+  // Chaining is beneficial for mutual exclusivity, think of Venn diagrams.
+  if (month >= 12 || month <= 2){
+    return 'Winter';
+  } else if (month >= 9){
+    return 'Autumn';
+  } else if (month >= 6){
+    return 'Summer';
+  } else if (month >= 3){
+    return 'Spring';
+  } 
 }
