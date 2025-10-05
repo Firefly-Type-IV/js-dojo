@@ -13,4 +13,15 @@ export function productSmallerNumbers(input) {
   // TODO: Use a for loop to iterate from 1 to one less than the input number.
   // TODO: Multiply each number to the product variable.
   // TODO: Return the product.
+  let product = 1;
+  
+  const numbers = Array.from({length: input - 1}, (_, i) => i + 1);
+
+  return numbers.reduce((product, current) => product * current, 1);
+  let i = 1;
+  while (i < input){
+    product *= i;
+    i++;
+  }
+  return product;
 }
